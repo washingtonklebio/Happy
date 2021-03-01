@@ -2,9 +2,10 @@ module.exports = {
 	theme: {
 		colors: {
 			white: '#ffffff',
-			background: '#f2f3f5',
+			background: '#0f111d',
+			secondary: '#181b2e',
 			'gray-line': '#dcdde8',
-			text: '#666666',
+			text: '#f2f3f5',
 			'text-highlight': '#b3b9ff',
 			title: '#2e384d',
 			red: '#e83f5b',
